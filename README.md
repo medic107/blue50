@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lorne, an <a href="https://linkedin.com/in/Lorne">IT Professional</a></h1>
+<h1>Hi, I'm Lorne, an <a href="https://linkedin.com/in/LorneLaney">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
