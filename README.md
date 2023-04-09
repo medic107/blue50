@@ -16,7 +16,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Lorne Laney
+[linkedin]: https://linkedin.com/in/LorneLaney
 
 
 
